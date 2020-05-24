@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LANDING-PAGE.iml" filepath="$PROJECT_DIR$/.idea/LANDING-PAGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BOOTSTRAP/b4-landingpage/.idea/b4-landingpage.iml" filepath="$PROJECT_DIR$/../BOOTSTRAP/b4-landingpage/.idea/b4-landingpage.iml" />
+    </modules>
+  </component>
+</project>
