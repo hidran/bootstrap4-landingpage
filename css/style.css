@@ -3,3 +3,21 @@
 body{
     padding-top: 80px;
 }
+.jumbotron {
+    background-image: url('../images/jumbo-bg1.jpg');
+}
+
+.jumbotron h1{
+    color: #FFF730;
+}
+.jumbotron .lead{
+    color: #fff;
+}
+.jumbotron .btn-primary{
+    color:#fff;
+    border: 1px solid #fff;
+    background-color: #FF3B55;
+}
+.jumbotron hr {
+    border-bottom: 1px solid #FF3B55;
+}
