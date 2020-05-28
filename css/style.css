@@ -13,7 +13,7 @@ body{
 .jumbotron .lead{
     color: #fff;
 }
-.jumbotron .btn-primary{
+.jumbotron .btn-primary, #contacts .btn-primary{
     color:#fff;
     border: 1px solid #fff;
     background-color: #FF3B55;
@@ -33,3 +33,28 @@ body{
 .card-body{
     min-height: 400px;
 }
+
+#contacts {
+    color: #FFF730;
+    padding: 10px;
+    background-image: url('../images/jumbo-bg1.jpg');
+}
+
+#contacts .btn-primary{
+    color:#222;
+    border: 1px solid #fff;
+    background-color: #FFF730;
+}
+
+#contacts input,#contacts textarea{
+       border-radius: 4px;
+       
+       padding: 5px;
+   }
+   #contacts #form{
+        border-top-left-radius: 20px;
+        background-color:  #FF3B55;
+   }
+   #contacts i {
+       color: #FF3B55;
+   }
